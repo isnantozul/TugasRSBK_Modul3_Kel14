@@ -15,12 +15,7 @@ class Child1 extends Component {
             }
         })
     }
-    // componentDidUpdate(prevProps, prevState, snapshot) {
-    //     alert(`Component Updates! State nama sebelumnya: ${prevState.nama}`)
-    // }
-    // shouldComponentUpdate(nextProps, nextState, nextContext) {
-    //     return window.confirm('Haruskah Component ini di-Update?');
-    // }
+
     componentWillUnmount() {
         alert('Anak 1 akan Hilang')
     }

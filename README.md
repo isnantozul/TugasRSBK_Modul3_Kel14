@@ -2,4 +2,4 @@
 
 ## Kelompok 14
 - Muhammad Zulfikar Isnanto
-- Fandi
+- M. Gesit Alifandi
