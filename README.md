@@ -2,4 +2,4 @@
 
 ## Kelompok 14
 - Muhammad Zulfikar Isnanto
-- M. Gesit Alifandi
+- M. Gesit Alifand
